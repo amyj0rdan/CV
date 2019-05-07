@@ -39,7 +39,7 @@ From handling over 200 titles a year at Palgrave Macmillan to being on the board
 ## Projects
 
 | Project | Description | Timeframe | Technology |
-| ----- | ----- | ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- |
 | [Acebook](https://github.com/amyj0rdan/acebook-plaicebook) (visit on [Heroku](https://plaicebook.herokuapp.com/)) | Team project to build a Facebook clone using Agile principles | 9 days, weeks 8 and 9 | Ruby on Rails, RSpec, Capybara, CSS, Postgres |
 | [InstaCat](https://github.com/amyj0rdan/instagram-challenge) | Weekend challenge to build an Instagram clone | 1 day, week 8 | Ruby on Rails, RSpec, Capybara, CSS, Postgres |
 | [Bowling scorecard](https://github.com/amyj0rdan/bowling-challenge) | Weekend challenge to build a bowling scorecard | 4 days, weeks 5 and 6 |  JavaScript, jQuery, Jasmine, CSS |
