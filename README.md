@@ -8,6 +8,16 @@ With a background in publishing, I love building something from ideas as to how 
 
 I am currently a student at [Makers Academy](https://makers.tech/), an intensive developer bootcamp. I'm looking for my first developer role in a learning-friendly environment where I can be creative and challenged.
 
+## Projects
+
+| Project | Description | Timeframe | Technology |
+| ----- | ----- | ----- | ----- |
+| [Acebook](https://github.com/amyj0rdan/acebook-plaicebook) (visit on [Heroku](https://plaicebook.herokuapp.com/)) | Team project to build a Facebook clone using Agile principles | 9 days, weeks 8 and 9 | Ruby on Rails, RSpec, Capybara, CSS, Postgres |
+| [InstaCat](https://github.com/amyj0rdan/instagram-challenge) | Weekend challenge to build an Instagram clone | 1 day, week 8 | Ruby on Rails, RSpec, Capybara, CSS, Postgres |
+| [Bowling scorecard](https://github.com/amyj0rdan/bowling-challenge) | Weekend challenge to build a bowling scorecard | 4 days, weeks 5 and 6 |  JavaScript, jQuery, Jasmine, CSS |
+| [Airport in JavaScript](https://github.com/amyj0rdan/airport_challenge_js) | Rebuild a previous project using JavaScript | 2 days, week 5 | Vanilla JS, Jasmine |
+| [Rock, Paper, Scissors](https://github.com/amyj0rdan/rps-challenge) | Weekend challenge to build a web app to play Rock, Paper, Scissors | 2 days, week 3 | Ruby, Sinatra, RSpec, Capybara, CSS |
+
 ## Skills
 
 #### Fast and continuous learner
@@ -35,17 +45,6 @@ I love approaching tasks creatively, but wear my practical hat while doing so. I
 #### Highly organised
 
 From handling over 200 titles a year at Palgrave Macmillan to being on the board of directors at Zed Books, planning, strategising and organising are some of my key strengths. Years of scheduling months ahead, as well as being able to accommodate last minute changes, will prove excellent preparation for life as a developer: being able to see the big picture and how things will slot together but with the flexibility to respond to changes.
-
-## Projects
-
-| Project | Description | Timeframe | Technology |
-| ----- | ----- | ----- | ----- |
-| [Acebook](https://github.com/amyj0rdan/acebook-plaicebook) (visit on [Heroku](https://plaicebook.herokuapp.com/)) | Team project to build a Facebook clone using Agile principles | 9 days, weeks 8 and 9 | Ruby on Rails, RSpec, Capybara, CSS, Postgres |
-| [InstaCat](https://github.com/amyj0rdan/instagram-challenge) | Weekend challenge to build an Instagram clone | 1 day, week 8 | Ruby on Rails, RSpec, Capybara, CSS, Postgres |
-| [Bowling scorecard](https://github.com/amyj0rdan/bowling-challenge) | Weekend challenge to build a bowling scorecard | 4 days, weeks 5 and 6 |  JavaScript, jQuery, Jasmine, CSS |
-| [Airport in JavaScript](https://github.com/amyj0rdan/airport_challenge_js) | Rebuild a previous project using JavaScript | 2 days, week 5 | Vanilla JS, Jasmine |
-| [Rock, Paper, Scissors](https://github.com/amyj0rdan/rps-challenge) | Weekend challenge to build a web app to play Rock, Paper, Scissors | 2 days, week 3 | Ruby, Sinatra, RSpec, Capybara, CSS |
-
 
 ## Education
 
