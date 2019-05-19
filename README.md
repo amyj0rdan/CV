@@ -105,4 +105,4 @@ Commissioned, developed and produced all titles for Central Banking Publications
 - Fellow of the RSA
 - Alzheimer's Society Dementia Friend
 - Regular at Pilates
-- Avid podcast listener - favourites include _Revisionist History_, _Moral Maze_ and _Ear Hustle
+- Avid podcast listener - favourites include _Revisionist History_, _Moral Maze_ and _Ear Hustle_
