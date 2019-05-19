@@ -15,7 +15,7 @@ I am currently a student at [Makers Academy](https://makers.tech/), an intensive
 | [Acebook](https://github.com/amyj0rdan/acebook-plaicebook) (visit on [Heroku](https://plaicebook.herokuapp.com/)) | Team project to build a Facebook clone using Agile principles | 9 days, weeks 8 and 9 | Ruby on Rails, RSpec, Capybara, CSS, Postgres |
 | [InstaCat](https://github.com/amyj0rdan/instagram-challenge) | Weekend challenge to build an Instagram clone | 1 day, week 8 | Ruby on Rails, RSpec, Capybara, CSS, Postgres |
 | [Bowling scorecard](https://github.com/amyj0rdan/bowling-challenge) | Weekend challenge to build a bowling scorecard | 4 days, weeks 5 and 6 |  JavaScript, jQuery, Jasmine, CSS |
-| [Airport in JavaScript](https://github.com/amyj0rdan/airport_challenge_js) | Rebuild a previous project using JavaScript | 2 days, week 5 | Vanilla JS, Jasmine |
+| [Airport in JavaScript](https://github.com/amyj0rdan/airport_challenge_js) | Rebuild a previous project using JavaScript | 2 days, week 5 | JavaScript, Jasmine |
 | [Rock, Paper, Scissors](https://github.com/amyj0rdan/rps-challenge) | Weekend challenge to build a web app to play Rock, Paper, Scissors | 2 days, week 3 | Ruby, Sinatra, RSpec, Capybara, CSS |
 
 ## Skills
@@ -56,9 +56,12 @@ A 16-week intensive development bootcamp, with a focus on:
 - OOP best practices
 - All projects written using TDD
 - Agile development process and XP values
-- Ruby, Rails, JavaScript, Sinatra
-- RSpec, Capybara, Jasmine
+- Ruby, Rails, Python, JavaScript, Sinatra
+- RSpec, Capybara, Pytest, Jasmine
 - Git workflow
+- Travis CI
+- Heroku deployment and CD
+- Code reviews
 
 #### Newcastle University (2008 - 2011)
 
@@ -69,6 +72,7 @@ A 16-week intensive development bootcamp, with a focus on:
 #### Langley Park School for Girls (2001 - 2008)
 
 - A-levels in Mathematics (A), English Literature (A) and Government and Politics (A) and AS-level in Biology (A), 2006 - 2008
+- 12 GCSEs including Mathematics, English and Triple Science Award (all A*)
 
 ## Experience
 
@@ -101,3 +105,4 @@ Commissioned, developed and produced all titles for Central Banking Publications
 - Fellow of the RSA
 - Alzheimer's Society Dementia Friend
 - Regular at Pilates
+- Avid podcast listener - favourites include _Revisionist History_, _Moral Maze_ and _Ear Hustle
