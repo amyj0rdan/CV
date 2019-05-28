@@ -6,12 +6,13 @@ I am itching to start my career as a web developer - I love the constant problem
 
 With a background in publishing, I love building something from ideas as to how it will look, feel and function. I want to use my problem solving skills and process-focused outlook together with my love of syntax to write clean, tested and reusable code.
 
-I am currently a student at [Makers Academy](https://makers.tech/), an intensive developer bootcamp. I'm looking for my first developer role in a learning-friendly environment where I can be creative and challenged.
+I have just finished studying at [Makers Academy](https://makers.tech/), an intensive developer bootcamp. I'm looking for my first developer role in a learning-friendly environment where I can be creative and challenged.
 
 ## Projects
 
 | Project | Description | Timeframe | Technology |
 | ----- | ----- | ----- | ----- |
+| [Doodler](https://github.com/amyj0rdan/ajak-final-project) (visit on [Heroku](http://ajak-doodler.herokuapp.com/)) | Final team project building Pictionary played with an AI model, trained to recognise three different drawings | 9 days, weeks 11 and 12 | Python, Pytest, Splinter, Flask, JavaScript, JQuery, Keras, Tensorflow, CSS |
 | [Acebook](https://github.com/amyj0rdan/acebook-plaicebook) (visit on [Heroku](https://plaicebook.herokuapp.com/)) | Team project to build a Facebook clone using Agile principles | 9 days, weeks 8 and 9 | Ruby on Rails, RSpec, Capybara, CSS, Postgres |
 | [InstaCat](https://github.com/amyj0rdan/instagram-challenge) | Weekend challenge to build an Instagram clone | 1 day, week 8 | Ruby on Rails, RSpec, Capybara, CSS, Postgres |
 | [Bowling scorecard](https://github.com/amyj0rdan/bowling-challenge) | Weekend challenge to build a bowling scorecard | 4 days, weeks 5 and 6 |  JavaScript, jQuery, Jasmine, CSS |
